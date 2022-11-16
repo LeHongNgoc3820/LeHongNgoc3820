@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ngoc (you can call me Lucas)
+## 👋 Hi, I’m Ngoc (Lucas)
 I'm a Data Analyst
 
 ### You can contact me at:

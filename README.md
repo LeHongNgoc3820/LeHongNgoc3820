@@ -2,7 +2,7 @@
 
 + I am a Bachelor of Finance - Banking. My major in college was Quantitative Finance. It's a major that combines economics, finance, statistical probabilities, and programming. I think this is a difficult, interesting, and challenging major. Therefore, I decided to pursue it seriously.
 
-+ Now, I'm a Data Analyst.
++ Now, I'm a **Data Analyst**.
 
 + I am also an economic researcher. You can view my published research papers [here](https://docs.google.com/spreadsheets/d/1T8vvLIAlmfqMDtRZaMVRH1ihEpL7jpnO/edit?usp=sharing&ouid=118190822169210067132&rtpof=true&sd=true).
 

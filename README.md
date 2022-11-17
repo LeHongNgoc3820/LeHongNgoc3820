@@ -6,7 +6,7 @@
 
 + I am also an economic researcher. You can view my published research papers [here](https://docs.google.com/spreadsheets/d/1T8vvLIAlmfqMDtRZaMVRH1ihEpL7jpnO/edit?usp=sharing&ouid=118190822169210067132&rtpof=true&sd=true).
 
-+ In addition, I also have a passion for blogging.
++ In addition, I have a passion for blogging.
 ### You can connect with me on:
 + Email: lehongngoc.work@gmail.com
 + Youtube: [Lucas viết Blog](https://www.youtube.com/channel/UCpW9VzMJcKQ-UK0rJcZ8xVQ)

@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ngoc (Lucas)
 
-I am a Bachelor of Finance - Banking. My major in college was Quantitative Finance. It's a major that combines economics, finance, statistical probabilities, and programming. I think this is a difficult, interesting, and challenging major. Therefore, I decided to pursue it seriously.
+I am a Bachelor of Finance - Banking. My major in college was Quantitative Finance. It's a major that combines economics, finance, statistical probabilities, and programming. I think this is a difficult, interesting, and challenging major. Therefore, I decided to pursue it seriously because I love to explore and discover new things.
 
 + Now, I'm a **Data Analyst**.
 

@@ -4,7 +4,7 @@ I am a Bachelor of Finance - Banking. My major in college was Quantitative Finan
 
 + Now, I'm a **Data Analyst**.
 
-+ I am also an economic researcher. You can view my published research papers [here](https://docs.google.com/spreadsheets/d/1T8vvLIAlmfqMDtRZaMVRH1ihEpL7jpnO/edit?usp=sharing&ouid=118190822169210067132&rtpof=true&sd=true](https://github.com/LeHongNgoc3820/Paper-public.git)).
++ I am also an economic researcher. You can view my published research papers [here](https://github.com/LeHongNgoc3820/Paper-public).
 
 + In addition, I have also a passion for blogging.
 ### You can connect with me on:

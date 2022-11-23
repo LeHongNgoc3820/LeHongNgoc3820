@@ -7,7 +7,7 @@ I am a Bachelor of Finance - Banking. My major in college was Quantitative Finan
 + In addition, I have also a passion for blogging.
 ### You can connect with me on:
 + Email: lehongngoc.work@gmail.com
-+ Youtube: [Lucas viết Blog](https://www.youtube.com/channel/UCpW9VzMJcKQ-UK0rJcZ8xVQ)
++ Youtube: [Lucas viet Blog](https://www.youtube.com/channel/UCpW9VzMJcKQ-UK0rJcZ8xVQ)
 + Instagram: [lucas.vietblog](https://www.instagram.com/lucas.vietblog/)
 + Linkedln: [Ngoc Le Hong](https://www.linkedin.com/in/ngoc-le-hong-44131b21a/)
-+ Fanpage: [Lucas viết Blog](https://www.facebook.com/lucasvietblog)
++ Fanpage: [Lucas viet Blog](https://www.facebook.com/lucasvietblog)

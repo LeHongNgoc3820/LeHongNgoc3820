@@ -9,3 +9,4 @@ I am a Bachelor of Finance - Banking. My major in college was Quantitative Finan
 + Email: lehongngoc.work@gmail.com
 + Phone/Zalo: (+84) 703 278 896
 + Linkedln: [Ngoc Le Hong](https://www.linkedin.com/in/ngoc-le-hong-44131b21a/)
++ Facebook: [Lê Hồng Ngọc](https://www.facebook.com/hongngoc.le.0308)

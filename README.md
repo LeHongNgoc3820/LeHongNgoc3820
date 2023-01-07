@@ -4,7 +4,7 @@ I am a Bachelor of Finance - Banking. My major in college was Quantitative Finan
 
 + Now, I'm a **Data Analyst**.
 + I am also an economic researcher. You can view my published research papers [here](https://github.com/LeHongNgoc3820/Paper).
-+ In addition, I have also a passion for blogging.
++ In addition, I have also a passion for [blogging](https://github.com/LeHongNgoc3820/Lucas_viet_Blog).
 ### You can connect with me on:
 + Email: lehongngoc.work@gmail.com
 + Phone/Zalo: (+84) 703 278 896

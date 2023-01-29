@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ngoc (Lucas)
 
-💞️ I’m interested in **Statistics**, **Finance** and **Machine Learning**.
+💞️ I’m interested in **Statistics**, **Finance** and **Machine Learning**. You can see more from [Here.](https://github.com/LeHongNgoc3820?tab=repositories&q=&type=&language=&sort=name)
 
 + Now, I'm a **Data Analyst**.
 + I am also an **economic researcher**. You can view my published research papers [here](https://github.com/LeHongNgoc3820/Paper).

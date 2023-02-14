@@ -2,7 +2,6 @@
 
 💞️ I’m interested in **Statistics**, **Finance** and **Machine Learning**. You can see more from [here](https://github.com/LeHongNgoc3820?tab=repositories&q=&type=&language=&sort=name).
 
-+ Now, I'm a **Data Analyst**.
 + I am also an **economic researcher**. You can view my published research papers [here](https://github.com/LeHongNgoc3820/Paper).
 + I have also a passion for [blogging](https://github.com/LeHongNgoc3820/Lucas_viet_Blog).
 

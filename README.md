@@ -35,6 +35,5 @@
 
 #### 📫 You can contact with me on:
 + **Gmail**: lehongngoc.work@gmail.com
-+ **GitHub**: [LeHongNgoc3820](https://github.com/LeHongNgoc3820)
 + **Linkedln**: [Ngoc Le Hong](https://www.linkedin.com/in/ngoc-le-hong-44131b21a/)
 _____
